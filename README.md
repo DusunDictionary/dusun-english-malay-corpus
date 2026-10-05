@@ -5,10 +5,10 @@ This dataset is based on the Dusun language as spoken by the Dusun ethnic group 
 
 ## Overview
 
-This corpus contains approximately **13,000 entries** (Feb, 2026), including:
+This corpus contains approximately **26,000 entries** (Feb, 2026), including:
 
-- ~6,000 single-word translations  
-- ~6,000 phrases and full sentences  
+- ~9,000 single-word translations  
+- ~16,000 phrases and full sentences  
 - Multiple translation variants  
 - Word types and grammatical categories  
 
@@ -42,7 +42,7 @@ Typical fields include:
 
 ## Size
 
-- Entries: ~13,000  
+- Entries: ~26,000  
 - Format: CSV (Comma-Separated Values)  
 - Encoding: UTF-8 recommended  
 
