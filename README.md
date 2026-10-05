@@ -114,3 +114,8 @@ This dataset is provided as-is without warranty. While efforts have been made to
 ## Contact
 
 For questions or collaboration inquiries, please use the contact options available on the DusunDictionary website.
+
+## License
+This dataset is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). 
+
+Free for educational, linguistic, and non-commercial research use. Commercial use is prohibited without prior permission.
